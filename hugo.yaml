@@ -1,0 +1,85 @@
+baseURL: https://merryxmasfromhegel.github.io/law-language/
+languageCode: en-us
+title: Law and Language | University of Western Ontario
+theme: PaperMod
+publishDir: docs
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: false
+pygmentsUseClasses: true
+mainsections: ["events", "posts", "papermod"]
+
+minify:
+minify:
+  disableXML: true
+  # minifyOutput: true
+ 
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: About
+          url: about
+          weight: 1
+          
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+params:
+  defaultTheme: light
+  disableThemeToggle: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: false
+  ShowPageNums: false
+  ShowToc: false
+  
+  homeInfoParams:
+    Title: An interdisciplinary research initiative at the University of Western Ontario
+
+
+    Content: >-
+     
+      Our project brings together scholars from Law, Political Science, Philosophy and French Studies at the University of Western Ontario to investigate how laws are interpreted within legal institutions and understood by the public.
+      
+      *
+      * 
+      
+      
+    
+
+      # Upcoming events
+      
+      
+    
+      **[Elizabeth Allyn Smith](https://eallynsmith.wordpress.com/) (UQAM)**
+      
+      - **From Forensic Linguistics to AI: the Consequences of Different Understandings of ‘Ground Truth' for the Courts** ([Zoom registration](https://westernuniversity.zoom.us/meeting/register/tJUpduqhqjIsGNcvlB6QlIuR_OB0cqzv5LTG))
+      
+      - November 12, 12:30 -- 1:50 pm, Faculty of Law, Western University
+      
+      - Abstract: ‘Ground truth’ refers to a fundamental truth, or, for data, to “the real or underlying facts; information that has been checked or facts that have been collected at source” (OED). I present the evolution of this concept and its more specific definition in several domains, comparing, in particular, the requirements of a forensic linguist (or other forensic scientist) as compared to someone working in (so-called) artificial intelligence. I will draw from my own collaborative work in computational linguistics as well as other studies to illustrate some of the pitfalls of the diverging uses of this term when viewed from an evidentiary lens. After discussing challenges that are likely to become more frequent in our judge-as-gatekeeper legal systems, I conclude with a soft-law proposal for expert witness reports to include data statements.
+      
+    
+     

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Events on Law and Language | University of Western Ontario</title>
+    <link>http://localhost:1313/events/</link>
+    <description>Recent content in Events on Law and Language | University of Western Ontario</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 10:54:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upcoming Events</title>
+      <link>http://localhost:1313/events/about/</link>
+      <pubDate>Wed, 06 Nov 2024 10:54:39 -0500</pubDate>
+      <guid>http://localhost:1313/events/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://eallynsmith.wordpress.com/&#34;&gt;Elizabeth Allyn Smith&lt;/a&gt; (UQAM), &amp;ldquo;From Forensic Linguistics to AI: the Consequences of Different Understandings of ‘Ground Truth&amp;rsquo; for the Courts&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;November 12, 12:30 &amp;ndash; 1:50 pm, Faculty of Law, Western University (&lt;a href=&#34;https://westernuniversity.zoom.us/meeting/register/tJUpduqhqjIsGNcvlB6QlIuR_OB0cqzv5LTG&#34;&gt;Zoom registration&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘Ground truth’ refers to a fundamental truth, or, for data, to “the real or underlying facts; information that has been checked or facts that have been collected at source” (OED). I present the evolution of this concept and its more specific definition in several domains, comparing, in particular, the requirements of a forensic linguist (or other forensic scientist) as compared to someone working in (so-called) artificial intelligence. I will draw from my own collaborative work in computational linguistics as well as other studies to illustrate some of the pitfalls of the diverging uses of this term when viewed from an evidentiary lens. After discussing challenges that are likely to become more frequent in our judge-as-gatekeeper legal systems, I conclude with a soft-law proposal for expert witness reports to include data statements.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
